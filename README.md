@@ -18,7 +18,10 @@ Objectives:
 
 # Resource:
 
-    Difference between Stack and Queue Data Structures ||
+    https://alx-intranet.hbtn.io/rltoken/0KVWTdE8xXy__jUfBfakCw
+    https://alx-intranet.hbtn.io/rltoken/udmomL4F4mF630D2Z-ltqg
+    https://alx-intranet.hbtn.io/rltoken/fj_-SJXW-pWxgAnstsARoQ
+    https://alx-intranet.hbtn.io/rltoken/6Y_GVoIH_rV45xd7w0a9FA
 
 # General Requirements
 
