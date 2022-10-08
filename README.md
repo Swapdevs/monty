@@ -82,4 +82,4 @@ S/N 	Files 	Description
     Any output must be printed on stdout
     Any error message must be printed on stderr
 # Author
-"Christopher Akinsanmi" https://github.com/Swapdevs
+"Christopher Akinsanmi"
